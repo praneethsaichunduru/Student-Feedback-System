@@ -1,0 +1,27 @@
+Create a database name "feedback_system"
+
+Update the datbase records if any want  "dbconfig.php" file
+
+Admin Login Details
+
+user: admin@gmail.com
+pass: admin
+
+
+Student : 
+
+user: praneethsai1801.ch@gmail.com
+pass: praneeth
+
+user : bharadwaj.mp.97@gmail.com
+pass : bharadwaj
+
+user : bhavani.bm.97@gmail.com
+pass : bhavani
+
+user : priya.grandhi@gmail.com
+pass : priya
+
+Teacher 
+Sanjeevtech2@gmail.com
+sanjeev 
